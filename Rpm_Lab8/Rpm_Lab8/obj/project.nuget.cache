@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lo8Y6cvyvY4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shuic\\source\\repos\\Rpm_Lab8\\Rpm_Lab8\\Rpm_Lab8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuic\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\shuic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
